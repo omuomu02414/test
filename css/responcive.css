@@ -1,0 +1,11 @@
+@media (max-width: 670px) {
+
+    #top {
+        padding-top: 66.6666666667%;
+    }
+    .main-title {
+        position: absolute;
+        top:30%;
+        left: 10%;
+    }
+}
